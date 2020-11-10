@@ -6,7 +6,7 @@ Recent years have witnessed the trend of increasingly relying on distributed inf
 ### PROBLEM DEFINITION
 To provides high end security to the data on the cloud, which is accessible to the user through an easy interface.
 ```
-For more details see [GitHub Flavored Markdown](https://github.com/shreejit-01/Blockchain-Security-for-cloud/).
+For more details see (https://github.com/shreejit-01/Blockchain-Security-for-cloud/).
 
 
 
