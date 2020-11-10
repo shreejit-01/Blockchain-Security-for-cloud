@@ -1,0 +1,3 @@
+1.main form opens new every time exit is pressed
+2.approved tab does not resposne when oneced opened
+3.help file is just a text file should be uneditable
